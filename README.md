@@ -1,2 +1,2 @@
 # PRODIGY_CS_03
-Checks password strength by checking into its length, uppercase, lowercase, digits and special characters.
+Checks password strength by checking and looking into its length, uppercase, lowercase, digits and special characters.
